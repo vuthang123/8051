@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj" 
+TO ".\Objects\code_exemple_2_port_IO" 
+PRINT(".\Listings\code_exemple_2_port_IO.m51") RAMSIZE(256) 
